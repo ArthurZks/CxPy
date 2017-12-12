@@ -1,0 +1,1 @@
+Checkmarx supports PDF, RTF, CSV, XML reports.
